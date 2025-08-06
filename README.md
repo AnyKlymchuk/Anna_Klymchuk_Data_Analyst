@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anna – Financial Data Analyst | Senior Accountant
+# 👋 Hi, I'm Anna – Data Analyst | Senior Accountant
 
 💼 I combine 15 years of accounting experience with modern data tools to turn complex financial data into clear, actionable insights.
 
