@@ -1,6 +1,23 @@
-# 👋 Hi, I'm Anna – Data Analyst | Senior Accountant
+# 👋 Hi, I'm Anna –  Data Analyst with 15+ years of experience helping businesses make smarter decisions through analytics, automation, and visualization
 
-💼 I combine 15 years of accounting experience with modern data tools to turn complex financial data into clear, actionable insights.
+Power BI • SQL • Excel • Google Sheets • SAP • Python • Dashboard Automation
+Data Cleaning • Problem Solving • Visualization • Automation • Data Modeling • Data Integration • KPI Tracking • Process Optimization
+
+Let’s turn your data into business results!
+
+Hello! I'm a Business & Data Analyst with over 15 years of experience in transforming complex data into actionable insights. My expertise lies in creating interactive dashboards using Power BI, enabling businesses to make informed decisions across various functions, including marketing, sales, and finance.
+
+What I can do for you:
+Design and develop Power BI dashboards that provide real-time insights tailored to your business needs.
+Automate data collection and reporting processes, reducing manual efforts and minimizing errors.
+Analyze marketing and sales data to uncover trends and opportunities for growth.
+Collaborate with your team to ensure seamless integration of dashboards into existing workflows.
+Support strategic planning by delivering data-driven insights that drive business success.
+If you're looking for a professional who can bridge the gap between data and decision-making, I'm here to help!
+
+Call me
+Message me
+Contact me, and together we'll find the best solution to address your needs.
 
 🔎 I specialize in:
 - 📊 KPI tracking: Revenue Growth, EBITDA, CAC vs LTV, Gross Margin
