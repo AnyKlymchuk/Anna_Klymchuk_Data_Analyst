@@ -37,53 +37,6 @@ When I’m not analyzing data, you’ll find me experimenting with new BI featur
 - **Workflow Tools**: Git, JIRA, JSON templates, Automation (ETL, VBA, Apps Script)  
 
 ---
-
-## 📂 Featured Projects  
-
-### 1️⃣ [📊 KPI Dashboard in Power BI](https://github.com/yourusername/kpi-dashboard-powerbi)  
-Interactive report for Revenue, CAC vs LTV, and Profit Margin with dynamic filters and forecast vs actual analysis.  
-
-### 2️⃣ [🧮 Automated Financial Reports in Python](https://github.com/yourusername/financial-report-automation)  
-Automated Excel output (EBITDA, net profit, cost breakdowns) using Pandas and NumPy.  
-
-### 3️⃣ [📈 Forecasting Revenue & Costs](https://github.com/yourusername/forecasting-financial-kpis)  
-Revenue and expense forecasting with Prophet and statsmodels, including monthly trend analysis.  
-
-### 4️⃣ [🗄️ SQL for Finance](https://github.com/yourusername/sql-financial-analysis)  
-SQL scripts to analyze LTV, churn, ARPU, and transactional data.  
-
----
-
-## 💼 Professional Experience  
-
-### **Data Analyst – IGM Technology (Canada, remote)**  
-- Built and maintained Power BI dashboards for finance and budget tracking  
-- Automated data flows from ERP to reporting systems  
-- Collaborated with stakeholders on KPI design and reporting needs  
-
-### **Financial & Data Analyst – Yves Rocher & Adama Ukraine**  
-- Led reporting automation in Excel/Power BI for finance and sales  
-- Designed variance and forecast models for management teams  
-- Integrated SAP and 1C data into consolidated reports  
-
----
-
-## 📫 Let’s Connect  
-📍 Remote / Open to relocation (EU)  
-📧 anyklymchuk@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/anna-k-0278276b/) • [GitHub](https://github.com/yourusername) • [Upwork](https://www.upwork.com/freelancers/~01a54f05d38cd5375f?mp_source=share)  
-
----
-
-📌 Always open to new projects in **Power BI, analytics, and financial data automation**.  
-
-# 👋 Hi, I'm Anna Klymchuk
-** Power BI & Data Analyst | with 15+ years of experience helping businesses make smarter decisions through analytics, automation, and visualization ** 
----
-## Power BI • SQL • Excel • Google Sheets • SAP • Python • Dashboard Automation
----
-## Data Cleaning • Problem Solving • Visualization • Automation • Data Modeling • Data Integration • KPI Tracking • Process Optimization
----
 ## Let’s turn your data into business results!
 
 Hello! I'm a Power BI & Data Analyst with over 15 years of experience in transforming complex data into actionable insights. 
@@ -127,10 +80,28 @@ Using `Prophet` and `statsmodels` to forecast revenue, variance, and monthly tre
 ### 4️⃣ [🗃️ SQL for Finance](https://github.com/yourusername/sql-financial-analysis)  
 SQL scripts to calculate LTV, churn, ARPU, and analyze financial transactions.  
 
+
 ---
 
-## 📫 Let's Connect
+## 💼 Professional Experience  
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/anna-k-0278276b/)
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01a54f05d38cd5375f?mp_source=share) 
-- 📬 anyklymchuk@gmail.com
+### **Data Analyst – IGM Technology (Canada, remote)**  
+- Built and maintained Power BI dashboards for finance and budget tracking  
+- Automated data flows from ERP to reporting systems  
+- Collaborated with stakeholders on KPI design and reporting needs  
+
+### **Financial & Data Analyst – Yves Rocher & Adama Ukraine**  
+- Led reporting automation in Excel/Power BI for finance and sales  
+- Designed variance and forecast models for management teams  
+- Integrated SAP and 1C data into consolidated reports  
+
+---
+
+## 📫 Let’s Connect  
+📍 Remote / Open to relocation (EU)  
+📧 anyklymchuk@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/anna-k-0278276b/) • [GitHub](https://github.com/yourusername) • [Upwork](https://www.upwork.com/freelancers/~01a54f05d38cd5375f?mp_source=share)  
+
+---
+
+📌 Always open to new projects in **Power BI, analytics, and financial data automation**.  
