@@ -4,13 +4,6 @@
 
 ---
 
-## 🔧 Tech Stack  
-Power BI • SQL • Excel • Google Sheets • SAP • Python • Dashboard Automation  
-
-Data Cleaning • Problem Solving • Visualization • Automation • Data Modeling • Data Integration • KPI Tracking • Process Optimization  
-
----
-
 ## 🚀 Let’s turn your data into business results!  
 
 Hello! I'm a Power BI & Data Analyst with over 15 years of experience in transforming complex data into actionable insights.  
@@ -18,12 +11,21 @@ My expertise lies in creating interactive dashboards using Power BI, enabling bu
 
 ---
 
-## 💡 I love working with  
-- **ETL pipelines** using SQL (PostgreSQL, SAP, 1C) and Power Query  
-- **Interactive dashboards** in Power BI, Excel, and Google Sheets  
-- **Automated reporting models and workflows** with Python (Pandas, NumPy)  
-- **Data-driven decision-making** in finance, HR, marketing, and logistics  
+## 🔧 Tech Stack  
+Power BI • SQL • Excel • Google Sheets • SAP • Python • Dashboard Automation  
 
+Data Cleaning • Problem Solving • Visualization • Automation • Data Modeling • Data Integration • KPI Tracking • Process Optimization  
+---
+
+💡 I specialize in
+
+Data preparation and transformation with SQL (PostgreSQL, SAP, 1C) and Power Query
+
+Interactive dashboards and reports in Power BI, Excel, and Google Sheets
+
+Data analysis across all business areas — finance, HR, marketing, logistics, and operations
+
+When I’m not analyzing data, I enjoy experimenting with new BI features, improving forecasting models, and fine-tuning my portfolio projects.
 When I’m not analyzing data, you’ll find me experimenting with new BI features, building forecasting models, or fine-tuning my portfolio projects.  
 
 ---
@@ -37,19 +39,14 @@ When I’m not analyzing data, you’ll find me experimenting with new BI featur
 - **Workflow Tools**: Git, JIRA, JSON templates, Automation (ETL, VBA, Apps Script)  
 
 ---
-## Let’s turn your data into business results!
-
-Hello! I'm a Power BI & Data Analyst with over 15 years of experience in transforming complex data into actionable insights. 
-My expertise lies in creating interactive dashboards using Power BI, enabling businesses to make informed decisions across various functions, including marketing, sales, and finance.
-
----
 ## What I can do for you:
-Design and develop Power BI dashboards that provide real-time insights tailored to your business needs.
-Automate data collection and reporting processes, reducing manual efforts and minimizing errors.
-Analyze marketing and sales data to uncover trends and opportunities for growth.
-Collaborate with your team to ensure seamless integration of dashboards into existing workflows.
-Support strategic planning by delivering data-driven insights that drive business success.
-If you're looking for a professional who can bridge the gap between data and decision-making, I'm here to help!
+Design and develop Power BI dashboards with real-time insights tailored to your business needs
+Automate data collection and reporting processes to reduce manual effort and errors
+Analyze marketing, sales, and financial data to uncover trends and opportunities for growth
+Collaborate with your team to ensure smooth integration of dashboards into existing workflows
+Deliver clear, data-driven insights to support strategic planning and business success
+
+If you're looking for a professional who can bridge the gap between raw data and decision-making, I’m here to help!
 
 Call me
 Message me
