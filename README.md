@@ -1,23 +1,23 @@
-# 👋 Hi, I'm Anna Klymchuk  
+# Hi, I'm Anna Klymchuk  
 
 **Power BI & Data Analyst with 15+ years of experience helping businesses make smarter decisions through analytics, automation, and visualization**  
 
 ---
 
-## 🚀 Let’s turn your data into business results!  
+##  Let’s turn your data into business results!  
 
 Hello! I'm a Power BI & Data Analyst with over 15 years of experience in transforming complex data into actionable insights.  
 My expertise lies in creating interactive dashboards using Power BI, enabling businesses to make informed decisions across various functions, including marketing, sales, and finance.  
 
 ---
 
-## 🔧 Tech Stack  
+##  Tech Stack  
 Power BI • SQL • Excel • Google Sheets • SAP • Python • Dashboard Automation  
 
 Data Cleaning • Problem Solving • Visualization • Automation • Data Modeling • Data Integration • KPI Tracking • Process Optimization  
 ---
 
-💡 I specialize in
+I specialize in
 
 Data preparation and transformation with SQL (PostgreSQL, SAP, 1C) and Power Query
 
@@ -30,7 +30,7 @@ When I’m not analyzing data, you’ll find me experimenting with new BI featur
 
 ---
 
-## 🧠 Core Skills  
+## Core Skills  
 - **Languages**: Python, SQL  
 - **Analytics**: Power BI (DAX, Power Query), Excel (advanced formulas, pivot models), Google Sheets  
 - **Data Science**: Pandas, NumPy, Statsmodels, Matplotlib  
@@ -51,36 +51,39 @@ If you're looking for a professional who can bridge the gap between raw data and
 Call me
 Message me
 Contact me, and together we'll find the best solution to address your needs.
+
 ---
 ## 
-🔎 I specialize in:
-- 📊 KPI tracking: Revenue Growth, EBITDA, CAC vs LTV, Gross Margin
-- 📉 Forecasting & Variance Analysis
-- 🧮 Financial Modeling (Excel + Python)
-- 🐍 Python: Pandas, NumPy, Matplotlib
-- 🧠 Power BI Dashboards with DAX
-- 🗄️ SQL: transforming raw financial data from databases
+I specialize in:
+
+- End-to-end problem solving — from fixing data errors and unifying sources to delivering dashboards and reports as ready-to-use business tools
+- KPI tracking & performance analytics — from Revenue Growth and EBITDA to CAC vs LTV and Gross Margin (helping businesses understand what drives their success)
+- Forecasting & variance analysis — turning past data into reliable future scenarios
+- Financial modeling — building clear, flexible models in Excel (and Python where needed)
+- Data cleaning & preparation — transforming raw, messy data into a reliable source of truth
+- Interactive dashboards — creating Power BI reports with DAX that make insights easy to understand
+- SQL solutions — extracting, transforming, and structuring financial data from databases into usable formats
 
 ---
 
-## 📂 Portfolio Projects
+## Portfolio Projects
 
-### 1️⃣ [📊 KPI Dashboard in Power BI](https://github.com/yourusername/kpi-dashboard-powerbi)  
+###  [ KPI Dashboard in Power BI](https://github.com/yourusername/kpi-dashboard-powerbi)  
 Track key metrics: Revenue, CAC vs LTV, Profit Margin, Forecast vs Actual — with dynamic filters and visuals.  
 
-### 2️⃣ [🧮 Automated Financial Reports in Python](https://github.com/yourusername/financial-report-automation)  
+###  [ Automated Financial Reports in Python](https://github.com/yourusername/financial-report-automation)  
 Build automated Excel-based reports using Python (Pandas) — EBITDA, net profit, cost breakdowns.  
 
-### 3️⃣ [📈 Forecasting Revenue and Costs](https://github.com/yourusername/forecasting-financial-kpis)  
+###  [ Forecasting Revenue and Costs](https://github.com/yourusername/forecasting-financial-kpis)  
 Using `Prophet` and `statsmodels` to forecast revenue, variance, and monthly trends.  
 
-### 4️⃣ [🗃️ SQL for Finance](https://github.com/yourusername/sql-financial-analysis)  
+###  [ SQL for Finance](https://github.com/yourusername/sql-financial-analysis)  
 SQL scripts to calculate LTV, churn, ARPU, and analyze financial transactions.  
 
 
 ---
 
-## 💼 Professional Experience  
+## Professional Experience  
 
 ### **Data Analyst – IGM Technology (Canada, remote)**  
 - Built and maintained Power BI dashboards for finance and budget tracking  
@@ -94,11 +97,11 @@ SQL scripts to calculate LTV, churn, ARPU, and analyze financial transactions.
 
 ---
 
-## 📫 Let’s Connect  
-📍 Remote / Open to relocation (EU)  
-📧 anyklymchuk@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/anna-k-0278276b/) • [GitHub](https://github.com/yourusername) • [Upwork](https://www.upwork.com/freelancers/~01a54f05d38cd5375f?mp_source=share)  
+## Let’s Connect  
+ Remote / Open to relocation (EU)  
+ anyklymchuk@gmail.com  
+ [LinkedIn](https://www.linkedin.com/in/anna-k-0278276b/) • [GitHub](https://github.com/yourusername) • [Upwork](https://www.upwork.com/freelancers/~01a54f05d38cd5375f?mp_source=share)  
 
 ---
 
-📌 Always open to new projects in **Power BI, analytics, and financial data automation**.  
+Always open to new projects in **Power BI, analytics, and financial data automation**.  
